@@ -1,0 +1,12 @@
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\bin\Debug\netcoreapp3.1\cZad4_2.exe
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\bin\Debug\netcoreapp3.1\cZad4_2.deps.json
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\bin\Debug\netcoreapp3.1\cZad4_2.runtimeconfig.json
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\bin\Debug\netcoreapp3.1\cZad4_2.runtimeconfig.dev.json
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\bin\Debug\netcoreapp3.1\cZad4_2.dll
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\bin\Debug\netcoreapp3.1\cZad4_2.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\obj\Debug\netcoreapp3.1\cZad4_2.AssemblyInfoInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\obj\Debug\netcoreapp3.1\cZad4_2.AssemblyInfo.cs
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\obj\Debug\netcoreapp3.1\cZad4_2.csproj.CoreCompileInputs.cache
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\obj\Debug\netcoreapp3.1\cZad4_2.dll
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\obj\Debug\netcoreapp3.1\cZad4_2.pdb
+D:\Real files\Projeckts\VisualStudio\forMoney\GlebKuch\cZad4_2\cZad4_2\obj\Debug\netcoreapp3.1\cZad4_2.genruntimeconfig.cache
