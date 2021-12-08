@@ -1,0 +1,16 @@
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\PracZ05Console.exe
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\PracZ05Console.deps.json
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\PracZ05Console.runtimeconfig.json
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\PracZ05Console.runtimeconfig.dev.json
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\PracZ05Console.dll
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\ref\PracZ05Console.dll
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\bin\Debug\net5.0\PracZ05Console.pdb
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.AssemblyInfoInputs.cache
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.AssemblyInfo.cs
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.dll
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\ref\PracZ05Console.dll
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.pdb
+C:\Users\susal\source\repos\PracZ05Console\PracZ05Console\obj\Debug\net5.0\PracZ05Console.genruntimeconfig.cache
