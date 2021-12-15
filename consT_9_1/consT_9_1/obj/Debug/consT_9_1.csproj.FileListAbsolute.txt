@@ -1,0 +1,7 @@
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\bin\Debug\consT_9_1.exe.config
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\bin\Debug\consT_9_1.exe
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\bin\Debug\consT_9_1.pdb
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\obj\Debug\consT_9_1.csproj.AssemblyReference.cache
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\obj\Debug\consT_9_1.csproj.CoreCompileInputs.cache
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\obj\Debug\consT_9_1.exe
+C:\Users\susal\Desktop\Денежное дерево\Programs\consT_9_1\consT_9_1\obj\Debug\consT_9_1.pdb
